@@ -1,7 +1,7 @@
 # lemp
 lemp install
 
-git clone (repository-url)
+git clone -(----repository-url-----)-
 
 chmod +x install.sh
 
